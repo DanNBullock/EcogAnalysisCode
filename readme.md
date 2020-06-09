@@ -12,6 +12,7 @@ Daniel Bullock (dnbulloc@iu.edu)
 Franco Pestilli (franpest@indiana.edu) - University of Austin at Texas / Indiana University 
 
 **Collaborators**
+
 Aina Puce (ainapuce@gmail.com ) - Indiana University Bloomington
 
 Nathalie George (nathalie.george@upmc.fr ) - Institut du Cerveau et de la Moelle épinière
