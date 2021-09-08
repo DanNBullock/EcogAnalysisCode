@@ -27,7 +27,7 @@ Funding sources / Sponsors
 
 # Background
 
-This repo contains the matlab code necessary to perform the white matter endpoint overlap analysis contained within &quot;Visual information routes in the posterior dorsal and ventral face network studied with intracranial neurophysiology, and white matter tract endpoints&quot; by Babo-Rebelo, et al. 2020 ([https://www.biorxiv.org/content/10.1101/2020.05.22.102046v1](https://www.biorxiv.org/content/10.1101/2020.05.22.102046v1)). The primary code item in this repository is the pipeline wrapper for this analysis, named coordinateOverlapAnalysisWrapper.m. In the sections below the process for setting up and using this wrapper will be described.
+This repo contains the matlab code necessary to perform the white matter endpoint overlap analysis contained within &quot;Visual information routes in the posterior dorsal and ventral face network studied with intracranial neurophysiology, and white matter tract endpoints&quot; by [Babo-Rebelo, et al. 2021](https://doi.org/10.1093/cercor/bhab212) ([preprint](https://www.biorxiv.org/content/10.1101/2020.05.22.102046v1)). The primary code item in this repository is the pipeline wrapper for this analysis, named coordinateOverlapAnalysisWrapper.m. In the sections below the process for setting up and using this wrapper will be described.
 
 # Wrapper (coordinateOverlapAnalysisWrapper) setup
 
